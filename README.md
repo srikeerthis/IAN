@@ -1,4 +1,4 @@
-# IANAI
+# IAN 
 IAN AI - Intelligence Agent Network AI is a collective intelligence designed to direct users to a more balanced truth
 
 IAN will be built with blockchain based foundation to keep trust amongst agents and users decentralized and secure.
