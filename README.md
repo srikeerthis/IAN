@@ -6,6 +6,6 @@ IAN will be built with a blockchain based foundation to keep trust amongst agent
 
 IAN is currently being built and tested behind closed doors but will be open-sourced in the near future.
 
-In the meantime this repository may be used as the community hub for IAN related contributions
+In the meantime this repository may be used as the community hub for IAN related contributions.
 
 see more on IAN @ www.ian.ong 
